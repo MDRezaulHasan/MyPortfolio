@@ -1,0 +1,26 @@
+* {
+  text-decoration: none !important;
+  line-height: 1.6 !important;
+  letter-spacing: 3px !important;
+}
+html {
+  scroll-behavior: smooth;
+}
+
+main {
+  min-height: 80vh;
+
+}
+
+.background_img {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.699), rgba(0, 0, 0, 0.897)),
+    url("../src/srcImages/background_img.jpg");
+  height: auto;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  
+}
+.star {
+  color: rgba(207, 100, 81, 0.993) !important;
+}
