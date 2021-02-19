@@ -5,7 +5,6 @@ import {
   Row,
   Col,
   Image,
-  ProgressBar,
   Button,
 } from "react-bootstrap";
 import { Link } from "react-scroll";

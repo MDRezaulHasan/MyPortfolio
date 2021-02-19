@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 import { LinkContainer } from "react-router-bootstrap";
-import { Navbar, Nav, NavDropdown, Container ,Image} from "react-bootstrap";
+import { Navbar, Nav, NavDropdown, Container } from "react-bootstrap";
 import { useDispatch, useSelector } from "react-redux";
 import { logout } from "../../redux/actions/userAction";
 
